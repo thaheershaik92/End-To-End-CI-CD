@@ -11,7 +11,7 @@ Checkout the repo and move to the directory
 
 ```
 git clone https://github.com/thaheershaik92/End-To-End-CI-CD.git
-cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+cd End-To-End-CI-CD/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
 ```
 
 Execute the Maven targets to generate the artifacts
