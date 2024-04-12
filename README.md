@@ -1,1 +1,2 @@
-# End-To-End-CI-CD
+Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
+
