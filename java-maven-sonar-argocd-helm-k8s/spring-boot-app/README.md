@@ -10,7 +10,7 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/thaheershaik92/End-To-End-CI-CD/java-maven-sonar-argocd-helm-k8s/spring-boot-app
+git clone https://github.com/thaheershaik92/End-To-End-CI-CD/java-maven-sonar-argocd-helm-k8s/spring-boot-app.git
 cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
 ```
 
